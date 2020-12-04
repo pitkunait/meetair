@@ -1,0 +1,9 @@
+make sure those directory are writable/777 "application/controllers,application/models,application/views/admin
+Unzip main_file.
+Then Login to admin panel then goto update from Setting >> Update
+Click choose file and brows "meetair101.zip" file from unziped folder "main_file\PHP\admin panel\update\v100 to v101"
+Then click "process update button" and wait untill complete.
+
+Done!
+
+after completed update change permission to 755 for those directory "application/controllers,application/models, application/views/admin

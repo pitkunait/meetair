@@ -1,0 +1,22 @@
+{
+  "directories": [
+     {
+      "title": "uploads/temp"
+    }
+  ],
+  "sql_file": "",
+  "files": [
+    {
+      "from_dir": "update/meetair101/controllers/Room.php",
+      "to_dir": "application/controllers/Room.php"
+    },
+    {
+      "from_dir": "update/meetair101/models/Common_model.php",
+      "to_dir": "application/models/Common_model.php"
+    },
+    {
+      "from_dir": "update/meetair101/views/room.php",
+      "to_dir": "application/views/room.php"
+    }
+  ]
+}
